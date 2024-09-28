@@ -14,8 +14,8 @@
 
 ## 🔥 GitHub Stats and Most Used Languages:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kwon9302&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwon9302&layout=compact&theme=radical" alt="Most Used Languages" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kwon9302&show_icons=true&theme=radical&card_width=400" alt="GitHub Stats" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwon9302&layout=compact&theme=radical&card_width=400" alt="Most Used Languages" style="width: 48%;"/>
 </div>
 
 ## 🚀 Projects:
