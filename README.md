@@ -21,3 +21,18 @@
 ## 🚀 Projects:
 - [Project 1](https://github.com/PleaseGiveMeAssets) - StockAsset Management
 - [Project 2](https://github.com/Kwon9302/AccountBook) - AccountBook
+
+## 💻 My Problem Solving Profiles:
+
+<div style="display: flex; justify-content: space-between;">
+  <!-- 백준 티어 및 통계 -->
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=porsche911bb" alt="Baekjoon tier" style="width: 48%;"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=porsche911bb" alt="Baekjoon solved.ac stats" style="width: 48%;"/>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <!-- LeetCode 통계 -->
+  <a href="https://leetcode.com/Kwon9302/">
+    <img src="https://leetcard.jacoblin.cool/k88oh@naver.com?theme=dark&font=source_code_pro" alt="LeetCode Stats" style="width: 48%;" />
+  </a>
+</div>
